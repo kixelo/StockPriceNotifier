@@ -1,6 +1,6 @@
 # StockPriceNotifier
 
-This script scrape percentage change of CROBEX index (the official share index of the Zagreb Stock Exchange) from https://zse.hr/en/indeks-366/365?isin=HRZB00ICBEX, and send you email notifciation, if CROBEX percentage change will be lower than 0.10 %.
+This script scrape percentage change of CROBEX index (the official share index of the Zagreb Stock Exchange) from https://zse.hr/en/indeks-366/365?isin=HRZB00ICBEX, and send you email notification, if CROBEX percentage change will be lower than 0.10 %.
 
 ## Online IDE Application that I used for coding part
 ```
